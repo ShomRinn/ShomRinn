@@ -10,5 +10,5 @@ My General projects:
 3. https://github.com/cSharpSquad/NewsWebsiteTool Web application News Portal using (C#) (Back-end) with RESTapi, swagger and Version Control
 4. https://github.com/ShomRinn/EndlessRunnerWPF Small c# arcade game
 5. https://github.com/ShomRinn/Easy-spase-battle-shooter-WPF Small c# arcade game
-6. https://github.com/ShomRinn/Cisco Some server simulations with Cisco package tracer
+6. https://github.com/ShomRinn/Cisco Some server simulations with Cisco packet tracer
 7. https://github.com/ShomRinn/PythonAlgorithms Python algo Leetcode tasks of varying levels of complexity.
